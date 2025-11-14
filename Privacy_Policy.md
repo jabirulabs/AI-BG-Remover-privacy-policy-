@@ -1,8 +1,8 @@
-Privacy Policy for AI BG Remover
+Privacy Policy for **AI BG Remover**
 
 Last Updated: 03/10/2025
 
-This Privacy Policy explains how AI BG Remover (“App”), developed and published by Jabiru Labs (“we”, “our”, “us”), collects, uses, and protects user information. By using the App, you agree to the practices described in this policy.
+This Privacy Policy explains how **AI BG Remover** (“App”), developed and published by **Jabiru Labs** (“we”, “our”, “us”), collects, uses, and protects user information. By using the App, you agree to the practices described in this policy.
 
 1. Information We Collect:
 We do not collect any personal information from users without their knowledge.
@@ -40,4 +40,5 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 9. Contact Us:
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 jabirulabs@gmail.com
+
 
