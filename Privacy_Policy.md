@@ -22,11 +22,10 @@ The images you upload are processed on our secure server and may be temporarily 
 We do not share your data with third parties except as required by law or to provide core app functionality.
 
 4. Third-Party Services and Data Sharing:
-   We use third-party services to facilitate our App's core functionality and to show advertisements.
-   * dMob (Google): We use Google AdMob to display advertisements. AdMob may collect and use personal data, including your
+We use third-party services to facilitate our App's core functionality and to show advertisements.
+* dMob (Google): We use Google AdMob to display advertisements. AdMob may collect and use personal data, including your
      Android Advertising ID (AAID) and IP address, to serve personalized ads and for analytics and fraud prevention purposes.
-
-  * Hugging Face: We use Hugging Face APIs to process images for background removal. Images uploaded are processed on
+* Hugging Face: We use Hugging Face APIs to process images for background removal. Images uploaded are processed on
     external servers and returned to the app.
 
 
@@ -48,6 +47,7 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 10. Contact Us:
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 jabirulabs@gmail.com
+
 
 
 
