@@ -13,9 +13,10 @@ We do not collect names, email addresses, phone numbers, or precise location.
 
 **2. How We Use Information:**
 We use the collected information to:
-Provide core features (e.g., remove image background)
-Improve the performance and reliability of the App
-Detect and fix technical issues
+Provide core features (e.g., remove image background).
+Improve the performance and reliability of the App.
+Display personalized advertisements via Google AdMob.
+Detect and fix technical issues.
 
 **3. Data Storage and Sharing:**
 The images you upload are processed on our secure server and may be temporarily stored only for processing. They are not shared, sold, or used for any other purpose.
@@ -23,30 +24,31 @@ We do not share your data with third parties except as required by law or to pro
 
 **4. Third-Party Services and Data Sharing:**
 We use third-party services to facilitate our App's core functionality and to show advertisements.
-* **dMob (Google):** We use Google AdMob to display advertisements. AdMob may collect and use personal data, including your
+* **AdMob (Google):** We use Google AdMob to display advertisements. AdMob may collect and use personal data, including your
      Android Advertising ID (AAID) and IP address, to serve personalized ads and for analytics and fraud prevention purposes.
 * **Hugging Face:** We use Hugging Face APIs to process images for background removal. Images uploaded are processed on
     external servers and returned to the app.
 For more information, please review the privacy policies of these third-party service providers:
-* [Google AdMob privacy](https://policies.google.com/privacy)
-* [Hugging Face Privacy](https://huggingface.co/privacy)
+* Google AdMob: [https://policies.google.com/privacy](https://policies.google.com/privacy)
+* Hugging Face: [https://huggingface.co/privacy](https://huggingface.co/privacy)
 
-**6. Data Security:**
+**5. Data Security:**
 We take appropriate measures to protect your information against unauthorized access, disclosure, or destruction. However, no method of transmission over the Internet is 100% secure.
 
-**7. Children’s Privacy:**
+**6. Children’s Privacy:**
 Our App is not intended for children under 13. We do not knowingly collect personal data from children.
 
-**8. Your Rights:**
+**7. Your Rights:**
 You can stop using the App at any time to discontinue data collection.
 Contact us if you have questions about how your data is handled.
 
-**9. Changes to This Privacy Policy:**
+**8. Changes to This Privacy Policy:**
 We may update this Privacy Policy from time to time. Updates will be posted within the App or on our website with a new Last Updated date.
 
-**10. Contact Us:**
+**9. Contact Us:**
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 jabirulabs@gmail.com
+
 
 
 
