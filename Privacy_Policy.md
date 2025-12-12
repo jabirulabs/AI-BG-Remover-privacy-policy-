@@ -21,13 +21,21 @@ Detect and fix technical issues
 The images you upload are processed on our secure server and may be temporarily stored only for processing. They are not shared, sold, or used for any other purpose.
 We do not share your data with third parties except as required by law or to provide core app functionality.
 
-4. Third-Party Services:
+4. Third-Party Services and Data Sharing:
+   We use third-party services to facilitate our App's core functionality and to show advertisements.
+   * dMob (Google): We use Google AdMob to display advertisements. AdMob may collect and use personal data, including your
+     Android Advertising ID (AAID) and IP address, to serve personalized ads and for analytics and fraud prevention purposes.
+
+  * Hugging Face: We use Hugging Face APIs to process images for background removal. Images uploaded are processed on
+    external servers and returned to the app.
+
+
 Our app does not directly use third-party services (such as analytics or advertising tools). However, our AI background removal model is hosted on Hugging Face, which acts only as a server provider to run the model. Hugging Face may collect limited technical information (such as server logs) in accordance with their own privacy policy. We encourage you to review Hugging Face’s privacy policy for more details.
 
-5. Data Security:
+6. Data Security:
 We take appropriate measures to protect your information against unauthorized access, disclosure, or destruction. However, no method of transmission over the Internet is 100% secure.
 
-6. Children’s Privacy:
+7. Children’s Privacy:
 Our App is not intended for children under 13. We do not knowingly collect personal data from children.
 
 8. Your Rights:
@@ -40,6 +48,7 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 10. Contact Us:
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 jabirulabs@gmail.com
+
 
 
 
