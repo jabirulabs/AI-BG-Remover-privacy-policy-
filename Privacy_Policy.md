@@ -28,8 +28,6 @@ Our app does not directly use third-party services (such as analytics or adverti
 We take appropriate measures to protect your information against unauthorized access, disclosure, or destruction. However, no method of transmission over the Internet is 100% secure.
 
 6. Children’s Privacy:
-
-7. 
 Our App is not intended for children under 13. We do not knowingly collect personal data from children.
 
 8. Your Rights:
@@ -42,6 +40,7 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 10. Contact Us:
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 jabirulabs@gmail.com
+
 
 
 
