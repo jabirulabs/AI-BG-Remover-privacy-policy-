@@ -27,6 +27,9 @@ We use third-party services to facilitate our App's core functionality and to sh
      Android Advertising ID (AAID) and IP address, to serve personalized ads and for analytics and fraud prevention purposes.
 * **Hugging Face:** We use Hugging Face APIs to process images for background removal. Images uploaded are processed on
     external servers and returned to the app.
+For more information, please review the privacy policies of these third-party service providers:
+* (Google AdMob privacy)[https://policies.google.com/privacy]
+* (Hugging Face Privacy)[https://huggingface.co/privacy]
 
 **6. Data Security:**
 We take appropriate measures to protect your information against unauthorized access, disclosure, or destruction. However, no method of transmission over the Internet is 100% secure.
@@ -44,6 +47,7 @@ We may update this Privacy Policy from time to time. Updates will be posted with
 **10. Contact Us:**
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 jabirulabs@gmail.com
+
 
 
 
